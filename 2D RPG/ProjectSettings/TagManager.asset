@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Building&DestroyingSystem
+  - ItemsParent
+  - UI
+  - Item
+  - Belt
+  - TribesParent
+  - SpriteRendererPlaceholder
+  - Tree
+  - Tribe
+  - Weapon
+  - Object
+  - Enemy
+  - Extras
+  - Crafting
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Obstacle
+  - Water
+  - UI
+  - Item
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 2485234655
+    locked: 0
+  - name: Tribes
+    uniqueID: 2190642471
+    locked: 0
+  - name: Belts
+    uniqueID: 198301153
+    locked: 0
+  - name: Previews
+    uniqueID: 1599790845
+    locked: 0
+  - name: Items
+    uniqueID: 651741853
+    locked: 0
+  - name: Particles
+    uniqueID: 338025169
+    locked: 0
+  - name: Trees
+    uniqueID: 2530367829
+    locked: 0
+  - name: Objects
+    uniqueID: 2284183955
+    locked: 0
+  - name: Characters
+    uniqueID: 502670065
+    locked: 0

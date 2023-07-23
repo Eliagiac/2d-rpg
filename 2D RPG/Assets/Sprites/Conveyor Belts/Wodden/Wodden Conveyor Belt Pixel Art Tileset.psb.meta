@@ -1,0 +1,1181 @@
+fileFormatVersion: 2
+guid: 5597e7719939fad418fdcb3eabc6bb36
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 128
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: ConveyorBelt_notConnected_facingUp
+    originalName: 
+    pivot: {x: 0.5, y: 0.6}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 128
+      height: 160
+    spriteID: 1f615804833534c4196914b29cd37eee
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 1248, y: 1216}
+  - name: ConveyorBelt_notConnected_facingDown
+    originalName: 
+    pivot: {x: 0.5, y: 0.6}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 172
+      width: 128
+      height: 160
+    spriteID: e35ba3b0594000e459b56062deb79b1b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 172}
+    spritePosition: {x: 1440, y: 1216}
+  - name: ConveyorBelt_notConnected_facingRight
+    originalName: 
+    pivot: {x: 0.5, y: 0.6}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 340
+      width: 128
+      height: 160
+    spriteID: a424119fac8eba94da75a80a85d90eba
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 340}
+    spritePosition: {x: 1440, y: 1440}
+  - name: ConveyorBelt_notConnected_facingLeft
+    originalName: 
+    pivot: {x: 0.5, y: 0.6}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 508
+      width: 128
+      height: 160
+    spriteID: a84c531f0b6cfbc4d8f7f77593040fe9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 508}
+    spritePosition: {x: 1248, y: 1440}
+  - name: ConveyorBelt_connectedDown_facingRight_curved
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 412
+      y: 676
+      width: 128
+      height: 128
+    spriteID: b225583639d2b914b88a0c07820af71e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 412, y: 676}
+    spritePosition: {x: 1024, y: 1888}
+  - name: ConveyorBelt_connectedDownRight_facingRight_curved
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 412
+      y: 812
+      width: 128
+      height: 128
+    spriteID: 8fdca1373e858df43a3fe79fbc718f93
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 412, y: 812}
+    spritePosition: {x: 1024, y: 1696}
+  - name: ConveyorBelt_connectedDown_facingLeft_curved
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 548
+      y: 4
+      width: 128
+      height: 128
+    spriteID: 2054917f06378884f9d90cd63ad05737
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 548, y: 4}
+    spritePosition: {x: 832, y: 1888}
+  - name: ConveyorBelt_connectedDownLeft_facingLeft_curved
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 548
+      y: 140
+      width: 128
+      height: 128
+    spriteID: 18d17001b5bf6f142badd58c2a7ef554
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 548, y: 140}
+    spritePosition: {x: 832, y: 1696}
+  - name: ConveyorBelt_connectedRight_facingDown_curved
+    originalName: 
+    pivot: {x: 0.5, y: 0.6}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 676
+      width: 128
+      height: 160
+    spriteID: b22b856d777cbbe46a0118f3095682b3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 676}
+    spritePosition: {x: 1872, y: 1856}
+  - name: ConveyorBelt_connectedDownRight_facingDown_curved
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 548
+      y: 276
+      width: 128
+      height: 128
+    spriteID: 4c6069c0e304ee840871767ff98a5def
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 548, y: 276}
+    spritePosition: {x: 1872, y: 1696}
+  - name: ConveyorBelt_connectedLeft_facingDown_curved
+    originalName: 
+    pivot: {x: 0.5, y: 0.6}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 844
+      width: 128
+      height: 160
+    spriteID: 35a5d291255c93840aa198bab49782c3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 844}
+    spritePosition: {x: 1680, y: 1856}
+  - name: ConveyorBelt_connectedDownLeft_facingDown_curved
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 548
+      y: 412
+      width: 128
+      height: 128
+    spriteID: e4b9e8229a46f7e45913cb238abc0c78
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 548, y: 412}
+    spritePosition: {x: 1680, y: 1696}
+  - name: ConveyorBelt_connectedUp_facingRight_curved
+    originalName: 
+    pivot: {x: 0.5, y: 0.6}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 140
+      y: 4
+      width: 128
+      height: 160
+    spriteID: 1db9321ab8138014485d2cc43e00d457
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 140, y: 4}
+    spritePosition: {x: 1856, y: 784}
+  - name: ConveyorBelt_connectedUpRight_facingRight_curved
+    originalName: 
+    pivot: {x: 0.5, y: 0.6}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 140
+      y: 172
+      width: 128
+      height: 160
+    spriteID: 5da4fcdbe1d962e4f9fd2f4a7c889b79
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 140, y: 172}
+    spritePosition: {x: 1856, y: 992}
+  - name: ConveyorBelt_connectedUp_facingLeft_curved
+    originalName: 
+    pivot: {x: 0.5, y: 0.6}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 140
+      y: 340
+      width: 128
+      height: 160
+    spriteID: a07037b83fb792c4493ad6c3f5d55205
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 140, y: 340}
+    spritePosition: {x: 1664, y: 784}
+  - name: ConveyorBelt_connectedUpLeft_facingLeft_curved
+    originalName: 
+    pivot: {x: 0.5, y: 0.6}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 140
+      y: 509
+      width: 128
+      height: 160
+    spriteID: bf0042276aadcca45863af1c0f101a2e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 140, y: 508}
+    spritePosition: {x: 1664, y: 992}
+  - name: ConveyorBelt_connectedDown_facingUp
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 548
+      y: 548
+      width: 128
+      height: 128
+    spriteID: b307932d61c3f12439cf022a7c2a19a0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 548, y: 548}
+    spritePosition: {x: 1056, y: 1520}
+  - name: ConveyorBelt_connectedUpDown_facingUp
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 548
+      y: 684
+      width: 128
+      height: 128
+    spriteID: 08f9e3108da6b764a882b4b41327ad47
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 548, y: 684}
+    spritePosition: {x: 1056, y: 1360}
+  - name: ConveyorBelt_connectedRight_facingUp_curved
+    originalName: 
+    pivot: {x: 0.5, y: 0.6}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 140
+      y: 676
+      width: 128
+      height: 160
+    spriteID: a8540bad56f63454e9419a8dd14baab7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 140, y: 676}
+    spritePosition: {x: 1008, y: 768}
+  - name: ConveyorBelt_connectedUpRight_facingUp_curved
+    originalName: 
+    pivot: {x: 0.5, y: 0.6}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 140
+      y: 844
+      width: 128
+      height: 160
+    spriteID: 9b7ed47edb2fbda448d561b9d5ba185d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 140, y: 844}
+    spritePosition: {x: 1008, y: 992}
+  - name: ConveyorBelt_connectedLeft_facingUp_curved
+    originalName: 
+    pivot: {x: 0.5, y: 0.6}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 276
+      y: 4
+      width: 128
+      height: 160
+    spriteID: 8101e4c0b1ca44b47851173d90d625d4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 276, y: 4}
+    spritePosition: {x: 824, y: 768}
+  - name: ConveyorBelt_connectedUpLeft_facingUp_curved
+    originalName: 
+    pivot: {x: 0.5, y: 0.6}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 276
+      y: 172
+      width: 128
+      height: 160
+    spriteID: 9af7373b9793e544d9a26b087a2cde94
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 276, y: 172}
+    spritePosition: {x: 816, y: 992}
+  - name: ConveyorBelt_connectedUp_facingUp
+    originalName: 
+    pivot: {x: 0.5, y: 0.6}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 276
+      y: 340
+      width: 128
+      height: 160
+    spriteID: 93be88e13425d274ea1ee300f60a54e5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 276, y: 340}
+    spritePosition: {x: 1056, y: 1168}
+  - name: ConveyorBelt_connectedUp_facingDown
+    originalName: 
+    pivot: {x: 0.5, y: 0.6}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 276
+      y: 508
+      width: 128
+      height: 160
+    spriteID: e2d53cc09c8eab44d9e1269271aae35c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 276, y: 508}
+    spritePosition: {x: 1632, y: 1168}
+  - name: ConveyorBelt_connectedUpDown_facingDown
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 548
+      y: 820
+      width: 128
+      height: 128
+    spriteID: d3e73a3bb31b10247930a4537593991e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 548, y: 820}
+    spritePosition: {x: 1632, y: 1360}
+  - name: ConveyorBelt_connectedDown_facingDown
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 684
+      y: 4
+      width: 128
+      height: 128
+    spriteID: f9c21fd24c91efd458ef11e6bd878705
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 684, y: 4}
+    spritePosition: {x: 1632, y: 1520}
+  - name: ConveyorBelt_connectedLeft_facingRight
+    originalName: 
+    pivot: {x: 0.5, y: 0.6}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 276
+      y: 676
+      width: 128
+      height: 160
+    spriteID: 0c49e618a04d1584fb9e3ffa3397632b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 276, y: 676}
+    spritePosition: {x: 1504, y: 1664}
+  - name: ConveyorBelt_connectedRightLeft_facingRight
+    originalName: 
+    pivot: {x: 0.5, y: 0.6}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 276
+      y: 844
+      width: 128
+      height: 160
+    spriteID: 9a3f8d774f6668743872301bf65ed402
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 276, y: 844}
+    spritePosition: {x: 1344, y: 1664}
+  - name: ConveyorBelt_connectedRight_facingRight
+    originalName: 
+    pivot: {x: 0.5, y: 0.6}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 412
+      y: 4
+      width: 128
+      height: 160
+    spriteID: 9ebd44d47e579944f9bae0e0c1506e2e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 412, y: 4}
+    spritePosition: {x: 1176, y: 1664}
+  - name: ConveyorBelt_connectedRight_facingLeft
+    originalName: 
+    pivot: {x: 0.5, y: 0.6}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 412
+      y: 172
+      width: 128
+      height: 160
+    spriteID: d2a5ba8c68237cc41a74f47373e70105
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 412, y: 172}
+    spritePosition: {x: 1176, y: 968}
+  - name: ConveyorBelt_connectedRightLeft_facingLeft
+    originalName: 
+    pivot: {x: 0.5, y: 0.6}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 412
+      y: 340
+      width: 128
+      height: 160
+    spriteID: 9c7ba46f4a418de4aaa596031080f925
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 412, y: 340}
+    spritePosition: {x: 1344, y: 968}
+  - name: ConveyorBelt_connectedLeft_facingLeft
+    originalName: 
+    pivot: {x: 0.5, y: 0.6}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 412
+      y: 508
+      width: 128
+      height: 160
+    spriteID: 4bfd40ed8b1953c4187c18abce19bc83
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 412, y: 508}
+    spritePosition: {x: 1504, y: 968}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  sharedRigSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Windows Store Apps
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Android
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  mosaicLayers: 1
+  characterMode: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  layerMappingOption: 2
+  generatePhysicsShape: 0
+  paperDollMode: 0
+  keepDupilcateSpriteName: 0
+  skeletonAssetReferenceID: 
+  padding: 4
+  spriteSizeExpand: 0
+  spriteCategoryList:
+    categories: []
+  spritePackingTag: 
+  resliceFromLayer: 0
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: ConveyorBelt_notConnected_facingUp
+    spriteName: ConveyorBelt_notConnected_facingUp
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 1f615804833534c4196914b29cd37eee
+    layerID: 2
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: ConveyorBelt_notConnected_facingDown
+    spriteName: ConveyorBelt_notConnected_facingDown
+    isGroup: 0
+    parentIndex: -1
+    spriteID: e35ba3b0594000e459b56062deb79b1b
+    layerID: 3
+    mosaicPosition: {x: 4, y: 172}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: ConveyorBelt_notConnected_facingRight
+    spriteName: ConveyorBelt_notConnected_facingRight
+    isGroup: 0
+    parentIndex: -1
+    spriteID: a424119fac8eba94da75a80a85d90eba
+    layerID: 5
+    mosaicPosition: {x: 4, y: 340}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: ConveyorBelt_notConnected_facingLeft
+    spriteName: ConveyorBelt_notConnected_facingLeft
+    isGroup: 0
+    parentIndex: -1
+    spriteID: a84c531f0b6cfbc4d8f7f77593040fe9
+    layerID: 4
+    mosaicPosition: {x: 4, y: 508}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: ConveyorBelt_connectedDown_facingRight_curved
+    spriteName: ConveyorBelt_connectedDown_facingRight_curved
+    isGroup: 0
+    parentIndex: -1
+    spriteID: b225583639d2b914b88a0c07820af71e
+    layerID: 84
+    mosaicPosition: {x: 412, y: 676}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: ConveyorBelt_connectedDownRight_facingRight_curved
+    spriteName: ConveyorBelt_connectedDownRight_facingRight_curved
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 8fdca1373e858df43a3fe79fbc718f93
+    layerID: 22
+    mosaicPosition: {x: 412, y: 812}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: ConveyorBelt_connectedDown_facingLeft_curved
+    spriteName: ConveyorBelt_connectedDown_facingLeft_curved
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 2054917f06378884f9d90cd63ad05737
+    layerID: 83
+    mosaicPosition: {x: 548, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: ConveyorBelt_connectedDownLeft_facingLeft_curved
+    spriteName: ConveyorBelt_connectedDownLeft_facingLeft_curved
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 18d17001b5bf6f142badd58c2a7ef554
+    layerID: 74
+    mosaicPosition: {x: 548, y: 140}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: ConveyorBelt_connectedRight_facingDown_curved
+    spriteName: ConveyorBelt_connectedRight_facingDown_curved
+    isGroup: 0
+    parentIndex: -1
+    spriteID: b22b856d777cbbe46a0118f3095682b3
+    layerID: 86
+    mosaicPosition: {x: 4, y: 676}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: ConveyorBelt_connectedDownRight_facingDown_curved
+    spriteName: ConveyorBelt_connectedDownRight_facingDown_curved
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 4c6069c0e304ee840871767ff98a5def
+    layerID: 75
+    mosaicPosition: {x: 548, y: 276}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: ConveyorBelt_connectedLeft_facingDown_curved
+    spriteName: ConveyorBelt_connectedLeft_facingDown_curved
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 35a5d291255c93840aa198bab49782c3
+    layerID: 85
+    mosaicPosition: {x: 4, y: 844}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: ConveyorBelt_connectedDownLeft_facingDown_curved
+    spriteName: ConveyorBelt_connectedDownLeft_facingDown_curved
+    isGroup: 0
+    parentIndex: -1
+    spriteID: e4b9e8229a46f7e45913cb238abc0c78
+    layerID: 54
+    mosaicPosition: {x: 548, y: 412}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: ConveyorBelt_connectedUp_facingRight_curved
+    spriteName: ConveyorBelt_connectedUp_facingRight_curved
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 1db9321ab8138014485d2cc43e00d457
+    layerID: 79
+    mosaicPosition: {x: 140, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: ConveyorBelt_connectedUpRight_facingRight_curved
+    spriteName: ConveyorBelt_connectedUpRight_facingRight_curved
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 5da4fcdbe1d962e4f9fd2f4a7c889b79
+    layerID: 76
+    mosaicPosition: {x: 140, y: 172}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: ConveyorBelt_connectedUp_facingLeft_curved
+    spriteName: ConveyorBelt_connectedUp_facingLeft_curved
+    isGroup: 0
+    parentIndex: -1
+    spriteID: a07037b83fb792c4493ad6c3f5d55205
+    layerID: 78
+    mosaicPosition: {x: 140, y: 340}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: ConveyorBelt_connectedUpLeft_facingLeft_curved
+    spriteName: ConveyorBelt_connectedUpLeft_facingLeft_curved
+    isGroup: 0
+    parentIndex: -1
+    spriteID: bf0042276aadcca45863af1c0f101a2e
+    layerID: 65
+    mosaicPosition: {x: 140, y: 508}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: ConveyorBelt_connectedDown_facingUp
+    spriteName: ConveyorBelt_connectedDown_facingUp
+    isGroup: 0
+    parentIndex: -1
+    spriteID: b307932d61c3f12439cf022a7c2a19a0
+    layerID: 34
+    mosaicPosition: {x: 548, y: 548}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: ConveyorBelt_connectedUpDown_facingUp
+    spriteName: ConveyorBelt_connectedUpDown_facingUp
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 08f9e3108da6b764a882b4b41327ad47
+    layerID: 33
+    mosaicPosition: {x: 548, y: 684}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: ConveyorBelt_connectedRight_facingUp_curved
+    spriteName: ConveyorBelt_connectedRight_facingUp_curved
+    isGroup: 0
+    parentIndex: -1
+    spriteID: a8540bad56f63454e9419a8dd14baab7
+    layerID: 81
+    mosaicPosition: {x: 140, y: 676}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: ConveyorBelt_connectedUpRight_facingUp_curved
+    spriteName: ConveyorBelt_connectedUpRight_facingUp_curved
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 9b7ed47edb2fbda448d561b9d5ba185d
+    layerID: 68
+    mosaicPosition: {x: 140, y: 844}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: ConveyorBelt_connectedLeft_facingUp_curved
+    spriteName: ConveyorBelt_connectedLeft_facingUp_curved
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 8101e4c0b1ca44b47851173d90d625d4
+    layerID: 82
+    mosaicPosition: {x: 276, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: ConveyorBelt_connectedUpLeft_facingUp_curved
+    spriteName: ConveyorBelt_connectedUpLeft_facingUp_curved
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 9af7373b9793e544d9a26b087a2cde94
+    layerID: 77
+    mosaicPosition: {x: 276, y: 172}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: ConveyorBelt_connectedUp_facingUp
+    spriteName: ConveyorBelt_connectedUp_facingUp
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 93be88e13425d274ea1ee300f60a54e5
+    layerID: 36
+    mosaicPosition: {x: 276, y: 340}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: ConveyorBelt_connectedUp_facingDown
+    spriteName: ConveyorBelt_connectedUp_facingDown
+    isGroup: 0
+    parentIndex: -1
+    spriteID: e2d53cc09c8eab44d9e1269271aae35c
+    layerID: 28
+    mosaicPosition: {x: 276, y: 508}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: ConveyorBelt_connectedUpDown_facingDown
+    spriteName: ConveyorBelt_connectedUpDown_facingDown
+    isGroup: 0
+    parentIndex: -1
+    spriteID: d3e73a3bb31b10247930a4537593991e
+    layerID: 27
+    mosaicPosition: {x: 548, y: 820}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: ConveyorBelt_connectedDown_facingDown
+    spriteName: ConveyorBelt_connectedDown_facingDown
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f9c21fd24c91efd458ef11e6bd878705
+    layerID: 26
+    mosaicPosition: {x: 684, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: ConveyorBelt_connectedLeft_facingRight
+    spriteName: ConveyorBelt_connectedLeft_facingRight
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 0c49e618a04d1584fb9e3ffa3397632b
+    layerID: 12
+    mosaicPosition: {x: 276, y: 676}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: ConveyorBelt_connectedRightLeft_facingRight
+    spriteName: ConveyorBelt_connectedRightLeft_facingRight
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 9a3f8d774f6668743872301bf65ed402
+    layerID: 42
+    mosaicPosition: {x: 276, y: 844}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: ConveyorBelt_connectedRight_facingRight
+    spriteName: ConveyorBelt_connectedRight_facingRight
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 9ebd44d47e579944f9bae0e0c1506e2e
+    layerID: 44
+    mosaicPosition: {x: 412, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: ConveyorBelt_connectedRight_facingLeft
+    spriteName: ConveyorBelt_connectedRight_facingLeft
+    isGroup: 0
+    parentIndex: -1
+    spriteID: d2a5ba8c68237cc41a74f47373e70105
+    layerID: 31
+    mosaicPosition: {x: 412, y: 172}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: ConveyorBelt_connectedRightLeft_facingLeft
+    spriteName: ConveyorBelt_connectedRightLeft_facingLeft
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 9c7ba46f4a418de4aaa596031080f925
+    layerID: 30
+    mosaicPosition: {x: 412, y: 340}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: ConveyorBelt_connectedLeft_facingLeft
+    spriteName: ConveyorBelt_connectedLeft_facingLeft
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 4bfd40ed8b1953c4187c18abce19bc83
+    layerID: 29
+    mosaicPosition: {x: 412, y: 508}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  sharedRigPSDLayers: []
+  pSDLayerImportSetting: []
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  spriteSizeExpandChanged: 0
+  generateGOHierarchy: 0
+  textureAssetName: Wodden Conveyor Belt Pixel Art Tileset Texture
+  prefabAssetName: Wodden Conveyor Belt Pixel Art Tileset Prefab
+  spriteLibAssetName: Wodden Conveyor Belt Pixel Art Tileset Sprite Lib
+  skeletonAssetName: 
+  secondarySpriteTextures: []
